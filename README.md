@@ -28,4 +28,4 @@ Because the data we were given was very large we did not receive a good and info
 
 **To learn about the additional constraints that we suggested and our biological conclusions from the algorithm results see "Report Part C".**
 
-Note: To run the program, there is a need to unzip the cog_words_bac file, by the command 'gunzip data/cog_words_bac.txt.gz'
+Note: To run the program, there is a need to unzip the cog_words_bac file, by the command **'gunzip data/cog_words_bac.txt.gz'**
