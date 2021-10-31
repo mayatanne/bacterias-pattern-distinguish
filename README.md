@@ -27,3 +27,5 @@ The output of this step consists of all itemsets that were identified in one of 
 Because the data we were given was very large we did not receive a good and informative result, therefore, on the second part of the project we were asked to repeat the experiment, but this time “invent” our own additional constraints (either biological or computational) that will either improve the biological reasoning or speed up the search while maintaining its accuracy.
 
 **To learn about the additional constraints that we suggested and our biological conclusions from the algorithm results see "Report Part C".**
+
+Note: To run the program, there is a need to unzip the cog_words_bac file, by the command 'gunzip data/cog_words_bac.txt.gz'
